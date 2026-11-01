@@ -6,23 +6,6 @@ Prachaar is a multi-agent AI platform that plans, runs, and improves ad campaign
 
 Prachaar is a multi-agent AI platform that plans, runs, and improves marketing campaigns in a continuous loop. A user fills in a simple campaign brief, and a team of specialized AI agents creates the plan, audience personas, and ad copy. A second AI model reviews the copy, and a human approves it before anything goes live. The campaign is then published to Meta Ads and/or Google Ads using the client's own ad accounts and wallets, so Prachaar never holds ad money. After the results come in, analytics, reflection, and optimization agents save lessons to memory, and the next cycle starts smarter than the last.
 
-## Demo
-
-[Live interactive simulation](https://claude.ai/artifact/RtmNWetJAaJS9nQGjuzaKg)
-
-## Screenshots
-
-| Dashboard | Create Campaign |
-|---|---|
-| ![Dashboard](docs/screenshots/01-dashboard.png) | ![Create Campaign](docs/screenshots/02-create-campaign.png) |
-
-| Agents at work | Review and approval |
-|---|---|
-| ![Agents](docs/screenshots/03-agents.png) | ![Approval](docs/screenshots/04-approval.png) |
-
-| Platform selection | Live metrics and cycles |
-|---|---|
-| ![Platforms](docs/screenshots/05-platforms.png) | ![Metrics](docs/screenshots/06-metrics.png) |
 
 ## Architecture
 
